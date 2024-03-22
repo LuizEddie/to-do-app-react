@@ -1,0 +1,8 @@
+{
+    "apps":[{
+        "name":"todo-backend",
+        "script": "index.js",
+        "instance": 0,
+        "exec_mode": "cluster" 
+    }]
+}
